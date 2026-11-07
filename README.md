@@ -2,7 +2,7 @@
 
 A web-based document tracking system that helps you trace documents and find where each one is.
 
-**Live site:** https://drd-document-tracker.netlify.app
+**Live site:** https://drd-docu-tracker.netlify.app
 
 ![Screenshot](screenshot.png)
 
